@@ -1,19 +1,27 @@
 [[ -o interactive ]] || return
 
-ZDOT="$XDG_CONFIG_HOME/zsh"
+setopt prompt_subst
+setopt auto_cd
+setopt correct
+setopt no_beep
+setopt interactive_comments
 
-setopt EXTENDED_GLOB
+HISTFILE=${ZDOTDIR:-$HOME}/.zsh_history
+HISTSIZE=100000
+SAVEHIST=100000
+setopt share_history inc_append_history hist_ignore_dups hist_reduce_blanks
 
-mkdir -p "$XDG_CACHE_HOME/zsh"
-zcompdump="$XDG_CACHE_HOME/zsh/zcompdump-$ZSH_VERSION"
-autoload -Uz compinit && compinit -C -d "$zcompdump"
+autoload -Uz compinit
+compinit -d "${ZDOTDIR:-$HOME}/.zcompdump"
 
+typeset -g zsh_config_dir="${ZDOTDIR:-$HOME/.config/zsh}/conf.d"
 
-for file in "$ZDOT"/aliases/*.zsh(N); do
-  source $file
-done
+if [[ -d $zsh_config_dir ]]; then
+  setopt null_glob
+  for config_file in "$zsh_config_dir"/*.zsh; do
+    [[ -r $config_file ]] && source "$config_file"
+  done
+  unsetopt null_glob
+fi
 
-for file in "$ZDOT"/conf.d/*.zsh(N); do
-  source $file
-done
-
+unset zsh_config_dir config_file
