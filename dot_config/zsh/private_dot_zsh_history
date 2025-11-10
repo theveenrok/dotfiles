@@ -1,0 +1,267 @@
+exec sh
+exec zsh
+exec zs
+exec zsh
+echo "hi"
+exec zsh
+f
+pr
+https://raw.githubusercontent.com/iffse/pay-respects/main/install.sh
+curl -sSfL https://raw.githubusercontent.com/iffse/pay-respects/main/install.sh | sh\
+
+pay-respects
+pay-respects -h
+exec zsh
+f
+pr
+f
+exec zsh
+f
+exec zsh
+f
+ls
+f
+cd a
+f
+exec zsh
+fzf
+z
+exec zsh
+exit
+exec zsh
+f
+f -f
+f -h
+f zsh
+f
+exec zsh
+f
+exec zsh
+cd
+cd zsh
+ls
+f
+cd zsh
+f
+exec zsh
+..
+cd zsh
+zi
+z
+z zsh
+zi --help
+exec zsh
+zi
+exec zsh
+z
+exec zsh
+z
+z zsh
+cd zsh
+f
+zi
+exec zsh
+zi
+zinit
+zinit --help
+ls --help
+exec zsh
+zj
+zj --help
+zj attach --help
+zj help
+zj p
+zj p --help
+zja
+zjn
+zed ../alacritty
+zjn
+exec zsh
+fch
+zjn
+sudo pacman -S Thunar
+sudo pacman -S thunar
+pacman -S hyprland
+f
+fuck
+pacman -S hyprland
+fuck
+sudo pacman -S hyprland
+sudo pacman -Syu\
+
+sudo pacman -Scc\
+
+sudo pacman -S hyprland\
+
+hyprland
+pacman -S hyprpaper
+fuck
+pay-respects
+pay-respects zsh
+fuck
+sudo pacman -S hyprpaper
+hyprland
+hx .config/hypr/hyprland.conf
+cd hypr
+cd .config/
+cd hypr
+vim hyprland.conf
+hyprland
+firefox
+exit
+zjn
+firefox
+exit
+zjn
+cl
+firefox
+zjn
+cl
+waybar
+fuck
+sudo pacman -S waybar
+waybar
+zjn
+cd hyr
+cd hypr
+zed ./
+zjn
+sudo pacman -S wofi
+zjn
+singbox
+sudo pacman -S singbox
+sudo pacman -S sing-box
+paru -S sing-box
+cl
+sing-box
+sing-box tools
+sing-box tools fetch https://hiddify.veenrok.com/gElBFpI2DMdDGtM9VIpr9/796b125e-2040-4fa6-8fc9-5a72ece336a1/singbox/?asn=unknown#Veenrok%20VPN%20%28LT%29
+sing-box tools fetch "https://hiddify.veenrok.com/gElBFpI2DMdDGtM9VIpr9/796b125e-2040-4fa6-8fc9-5a72ece336a1/singbox/?asn=unknown#Veenrok%20VPN%20%28LT%29"
+sing-box
+sing-box check
+sing-box generate
+sing-box
+sing-box tools connect "https://hiddify.veenrok.com/gElBFpI2DMdDGtM9VIpr9/796b125e-2040-4fa6-8fc9-5a72ece336a1/singbox/?asn=unknown#Veenrok%20VPN%20%28LT%29"
+mkdir .config/sing-box
+hx .config/sing-box/config.json
+helix .config/sing-box/config.json
+sing-box check
+sudo hiddify
+sing-box check -D .config/sing-box
+hx .config/sing-box/config.json
+exec zsh
+: 1762720216:0;hx .config/sing-box/config.json
+: 1762720248:0;sing-box check -D .config/sing-box
+: 1762720291:0;sing-box format -D .config/sing-box
+: 1762720300:0;sing-box --help
+: 1762720331:0;sing-box run -D .config/sing-box
+: 1762720367:0;sudo sing-box run -D .config/sing-box
+: 1762720502:0;sudo systemctl status sing-box.service sing-box.service
+: 1762720547:0;systemctl cat sing-box.service\
+
+: 1762720779:0;zjn
+: 1762720787:0;sudo sing-box run -D .config/sing-box
+: 1762720924:0;zed ./
+: 1762721271:0;hyprctl monitors
+: 1762721277:0;hyprctl monitors --help
+: 1762721294:0;hyprctl monitors devices
+: 1762721705:0;hyprctl hyprpaper
+: 1762721711:0;hyprctl hyprpaper --help
+: 1762721723:0;hyprctl hyprpaper listloaded
+: 1762721740:0;hyprctl hyprpaper walpaper
+: 1762721759:0;sudo pacman -S hyprpaper
+: 1762722111:0;ls
+: 1762722113:0;z
+: 1762722114:0;ls
+: 1762722317:0;hyprctl hyprpaper reload
+: 1762722407:0;hyprctl ку�ду�у�в
+: 1762722411:0;hyprctl reload
+: 1762725219:0;zjn
+: 1762725226:0;zed ./
+: 1762725278:0;sudo sing-box run -D .config/sing-box --help
+: 1762725295:0;sudo sing-box run -D .config/sing-box
+: 1762725980:0;у�от
+: 1762725983:0;zjn
+: 1762736230:0;sudo sing-box run -D .config/sing-box
+: 1762736571:0;sudo pacman -S qt5-wayland qt6-wayland\
+
+: 1762736800:0;keepassxc
+: 1762736835:0;sudo pacman -Syu keepassxc botan3\
+
+: 1762736864:0;sudo pacman -Syu keepassxc botan\
+
+: 1762736896:0;keepassxc
+: 1762736950:0;paru -S keepassxc-git
+: 1762737757:0;paru -S keepassxc-git-bin
+: 1762737764:0;paru -S keepassxc-bin-gir
+: 1762737767:0;paru -S keepassxc-bin-git
+: 1762737770:0;paru -S keepassxc-bin
+: 1762738141:0;sudo pacman -S keepassxc
+: 1762738211:0;keepassxc
+: 1762738371:0;hyprshell-bin
+: 1762738377:0;paru -S hyprshell-bin
+: 1762738434:0;paru -S hyprshell-slim
+: 1762738717:0;btop
+: 1762738740:0;sudo pacman -Scc\
+
+: 1762738751:0;paru -Scc
+: 1762738764:0;paru -S hyprshell-slim
+: 1762738864:0;cz
+: 1762738870:0;cz cd
+: 1762738876:0;zed ./
+: 1762738907:0;[]
+: 1762738941:0;cz
+: 1762738970:0;cz re-add ~/.config/hypr
+: 1762738978:0;cz add ~/.config/hypr
+: 1762738991:0;cz re-add ~/.config/keepassxc
+: 1762739001:0;cz re-add ~/.config/zed
+: 1762739006:0;cz re-add ~/.config/zsh
+: 1762739011:0;cz re-add ~/.config/helix
+: 1762739016:0;cz re-add ~/.config/alacritty
+: 1762739022:0;cza
+: 1762739049:0;czd
+: 1762739169:0;hyprshell
+: 1762739182:0;hyprshell config
+: 1762739186:0;hyprshell config generte
+: 1762739191:0;hyprshell config generate
+: 1762739282:0;hyprshell run
+: 1762739483:0;hyprswitch --help
+: 1762739495:0;hyprshell --help
+: 1762740692:0;sudo pacman -Syu\
+sudo pacman -S xfce4 xfce4-goodies
+: 1762741044:0;sudo pacman -S cosmic-session
+: 1762741200:0;sudo pacman -S cosmic
+: 1762741621:0;sudo pacman -S cosmic-panel cosmic-applets cosmic-app-library cosmic-launcher cosmic-settings cosmic-settings-daemon cosmic-workspaces cosmic-notifications cosmic-osd cosmic-randr cosmic-bg cosmic-idle cosmic-screenshot xdg-desktop-portal-cosmic
+: 1762741669:0;comic-session
+: 1762741717:0;reboot
+: 1762741843:0;zjn
+: 1762742176:0;btop
+: 1762743362:0;sudo pacman -S cosmic-applibrary
+: 1762743395:0;z .config
+: 1762743397:0;ls
+: 1762743653:0;..
+: 1762743655:0;ls -a
+: 1762743672:0;cd
+: 1762743684:0;cd .keepassxc
+: 1762743685:0;ls
+: 1762743761:0;mv keepassxc
+: 1762743773:0;..
+: 1762743775:0;ls
+: 1762743793:0;mv .keepassxc keepassxc
+: 1762745958:0;sudo pacman -S thunar
+: 1762746309:0;fzf
+: 1762746637:0;sudo pacman -Rns hyprland hyprpaper waybar
+: 1762746647:0;sudo pacman -Rns hyprland hyprpaper waybar hyprshell-slim
+: 1762746665:0;sudo pacman -Suuy
+: 1762747330:0;btop
+: 1762747510:0;sudo shutdown -c +60
+: 1762774939:0;sudo pacman -Rns cosmic-files
+: 1762775614:0;pactree -r cosmic-files\
+
+: 1762775975:0;chezmoi status\
+
+: 1762776010:0;cza ~/.config/cosmic
+: 1762776028:0;cz add ~/.config/cosmic
+: 1762776038:0;czs
+: 1762776067:0;czd
+: 1762776518:0;chezmoi add ~/.config/zsh

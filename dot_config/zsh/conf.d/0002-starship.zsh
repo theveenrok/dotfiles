@@ -1,8 +1,6 @@
 if ! command -v starship >/dev/null 2>&1; then
-    echo "starship not installed"
+  print "Starship not installed."
+  print "Please visit and install: https://starship.rs/installing"
 else
-    eval "$(starship init zsh)"
+  eval "$(starship init zsh)"
 fi
-
-
-eval "$(starship init zsh)"
