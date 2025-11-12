@@ -1,0 +1,15 @@
+
+# Rust
+[[language]]
+name = "rust"
+auto-format = true
+language-servers = ["rust-analyzer"]
+formatter = { command = "rustfmt", args = ["--edition", "2021"] }
+
+[language-server.rust-analyzer]
+command = "rust-analyzer"
+
+config.cargo = { allFeatures = true }          
+config.checkOnSave = { command = "clippy" }    
+config.procMacro = { enable = true }           
+config.inlayHints = { lifetimeElisionHints = "always" }
