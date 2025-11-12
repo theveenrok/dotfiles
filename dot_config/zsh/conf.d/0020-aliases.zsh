@@ -1,5 +1,4 @@
 alias ls="lsd"
-alias cd="z"
 alias cl="clear"
 
 # Zoxide aliases.

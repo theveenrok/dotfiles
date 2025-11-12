@@ -1,4 +1,24 @@
+// Zed settings
+//
+// For information on how to configure Zed, see the Zed
+// documentation: https://zed.dev/docs/configuring-zed
+//
+// To see all of Zed's default settings without changing your
+// custom settings, run `zed: open default settings` from the
+// command palette (cmd-shift-p / ctrl-shift-p)
 {
+  "ui_font_family": "Fira Sans",
+  "buffer_font_family": "Fira Code",
+  "buffer_font_features": {
+    "liga": true,
+    "calt": true
+  },
+  "terminal": {
+    "font_family": "FiraCode Nerd Font"
+  },
+  "git_panel": {
+    "sort_by_path": true
+  },
   "edit_predictions": {
     "mode": "subtle"
   },
@@ -26,7 +46,6 @@
     "share_on_join": false,
     "mute_on_join": true
   },
-  "buffer_font_family": "JetBrains Mono NL",
   "icon_theme": "Catppuccin Mocha",
   "telemetry": {
     "diagnostics": false,
@@ -61,11 +80,8 @@
     }
   },
   "auto_install_extensions": {
-    "catppuccin": true,
-    "catppuccin-icons": true,
     "html": true,
-    "toml": true,
     "dockerfile": true,
-    "git-firefly": true
+    "docker-compose": false
   }
 }
