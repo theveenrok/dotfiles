@@ -2,6 +2,7 @@
 # Font size in points
 size = 12.0
 
+
 # Pixel offset for the font
 offset.x = 0
 offset.y = 0
@@ -12,20 +13,20 @@ glyph_offset.y = 0
 
 # Primary (normal) font
 [font.normal]
-family = "JetBrains Mono Nerd Font"
+family = "Fira Code Nerd Font"
 style  = "Regular"
 
 # Bold font (falls back to normal if unspecified)
 [font.bold]
-family = "JetBrains Mono Nerd Font"
+family = "Fira Code Nerd Font"
 style  = "Bold"
 
 # Italic font (falls back to normal if unspecified)
 [font.italic]
-family = "JetBrains Mono Nerd Font"
+family = "Fira Code Nerd Font"
 style  = "Italic"
 
 # Bold Italic font (falls back to normal if unspecified)
 [font.bold_italic]
-family = "JetBrains Mono Nerd Font"
+family = "Fira Code Nerd Font"
 style  = "Bold Italic"
