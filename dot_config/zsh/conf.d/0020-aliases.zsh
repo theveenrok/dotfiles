@@ -5,8 +5,8 @@ alias cl="clear"
 alias z="__zoxide_z"
 alias zi="__zoxide_zi"
 
-# Fuck aliases.
-alias fuck="$(pay-respects zsh)"
+# Pay respects aliases.
+alias f="__pr"
 
 # Helix aliases.
 alias hx="helix"

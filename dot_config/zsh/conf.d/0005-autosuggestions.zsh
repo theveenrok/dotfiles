@@ -1,4 +1,9 @@
-ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE="fg=#ff00ff,bg=cyan,bold,underline"
-ZSH_AUTOSUGGEST_STRATEGY=(history completion)
-ZSH_AUTOSUGGEST_MIN_CHARS=1
+ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE="fg=8,bold,underline"
+ZSH_AUTOSUGGEST_STRATEGY=(history match_prev_cmd)
+ZSH_AUTOSUGGEST_MIN_CHARS=2
+ZSH_AUTOSUGGEST_CLEAR_WIDGETS=(
+  history-substring-search-up
+  history-substring-search-down
+)
+ZSH_AUTOSUGGEST_BUFFER_MAX_SIZE=80
 ZSH_AUTOSUGGEST_USE_ASYNC=true
