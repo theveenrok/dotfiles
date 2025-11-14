@@ -1,0 +1,6 @@
+[user]
+	email = veenrok@veenrok.com
+	signingkey = veenrok@veenrok.com
+	name = Vlad Korneev
+[commit]
+	gpgsign = true
