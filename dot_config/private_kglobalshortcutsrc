@@ -6,7 +6,7 @@ switch-to-activity-9392c10a-f9ad-4f95-b666-7641114659f2=none,none,Switch to acti
 Switch keyboard layout to English (US)=none,none,Switch keyboard layout to English (US)
 Switch keyboard layout to Russian=none,none,Switch keyboard layout to Russian
 Switch to Last-Used Keyboard Layout=none,Meta+Alt+L,Switch to Last-Used Keyboard Layout
-Switch to Next Keyboard Layout=Alt+Shift\tMeta+Space,Meta+Alt+K,Switch to Next Keyboard Layout
+Switch to Next Keyboard Layout=Alt+Shift,Meta+Alt+K,Switch to Next Keyboard Layout
 _k_friendly_name=Keyboard Layout Switcher
 
 [kaccess]
@@ -261,12 +261,18 @@ _launch=Meta+T
 [services][firefox.desktop]
 _launch=Meta+B
 
+[services][net.local.keepassxc-cli.desktop]
+_launch=Meta+I
+
 [services][org.gnome.Lollypop.desktop]
 _launch=Meta+M
 
 [services][org.kde.krunner.desktop]
 RunClipboard=none
 _launch=Meta+D
+
+[services][org.keepassxc.KeePassXC.desktop]
+_launch=Meta+K
 
 [services][systemsettings.desktop]
 _launch=none
