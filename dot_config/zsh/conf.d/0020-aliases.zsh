@@ -4,9 +4,7 @@ alias cl="clear"
 # Zoxide aliases.
 alias z="__zoxide_z"
 alias zi="__zoxide_zi"
-
-# Pay respects aliases.
-alias f="__pr"
+alias zq="zoxide query"
 
 # Helix aliases.
 alias hx="helix"
