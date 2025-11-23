@@ -9,14 +9,14 @@
 {
   "completion_menu_scrollbar": "auto",
   "helix_mode": false,
-  "ui_font_family": "Fira Sans",
-  "buffer_font_family": "Fira Code",
+  "ui_font_family": "Inter",
+  "buffer_font_family": "JetBrains Mono",
   "buffer_font_features": {
     "liga": true,
     "calt": true
   },
   "terminal": {
-    "font_family": "FiraCode Nerd Font"
+    "font_family": "JetBrainsMono Nerd Font"
   },
   "git_panel": {
     "sort_by_path": true
