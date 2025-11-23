@@ -13,17 +13,17 @@ glyph_offset.y = 0
 
 # Primary (normal) font
 [font.normal]
-family = "Fira Code Nerd Font"
+family = "JetBrainsMono Nerd Font"
 style  = "Regular"
 
 # Bold font (falls back to normal if unspecified)
 [font.bold]
-family = "Fira Code Nerd Font"
+family = "JetBrainsMono Nerd Font"
 style  = "Bold"
 
 # Italic font (falls back to normal if unspecified)
 [font.italic]
-family = "Fira Code Nerd Font"
+family = "JetBrainsMono Nerd Font"
 style  = "Italic"
 
 # Bold Italic font (falls back to normal if unspecified)
