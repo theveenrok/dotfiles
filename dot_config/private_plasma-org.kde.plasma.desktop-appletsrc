@@ -7,7 +7,7 @@ RightButton;NoModifier=org.kde.contextmenu
 [Containments][1]
 ItemGeometries-1920x1080=
 ItemGeometriesHorizontal=
-activityId=9392c10a-f9ad-4f95-b666-7641114659f2
+activityId=
 formfactor=0
 immutability=1
 lastScreen=0
@@ -275,7 +275,7 @@ plugin=org.kde.plasma.lock_logout
 AppletOrder=58;57;55;21;54;29;59
 
 [Containments][70]
-activityId=9392c10a-f9ad-4f95-b666-7641114659f2
+activityId=
 formfactor=0
 immutability=1
 lastScreen=1
