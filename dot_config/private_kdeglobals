@@ -136,11 +136,11 @@ ForegroundVisited=155,89,182
 ColorSchemeHash=2c3f86428c11011a7c64ee1e7f47c274d498ff10
 XftHintStyle=hintslight
 XftSubPixel=none
-fixed=Fira Code,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
-font=Fira Sans,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
-menuFont=Fira Sans,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
-smallestReadableFont=Fira Sans,8,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
-toolBarFont=Fira Sans,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+fixed=JetBrains Mono,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+font=Inter,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+menuFont=Inter Medium,10,-1,5,500,0,0,0,0,0,0,0,0,0,0,1,Regular
+smallestReadableFont=Inter Light,8,-1,5,300,0,0,0,0,0,0,0,0,0,0,1,Regular
+toolBarFont=Inter Medium,10,-1,5,500,0,0,0,0,0,0,0,0,0,0,1,Regular
 
 [KDE]
 AnimationDurationFactor=0.125
@@ -166,7 +166,7 @@ View Style=DetailTree
 [WM]
 activeBackground=39,44,49
 activeBlend=252,252,252
-activeFont=Fira Sans,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+activeFont=Inter SemiBold,10,-1,5,600,0,0,0,0,0,0,0,0,0,0,1,Regular
 activeForeground=252,252,252
 inactiveBackground=32,36,40
 inactiveBlend=161,169,177
