@@ -1,5 +1,21 @@
+[Annotations]
+annotationToolType=5
+rectangleFillColor=255,0,0,10
+rectangleStrokeColor=170,0,0
+textFont=JetBrains Mono,48,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+textFontColor=170,0,0
+
+[General]
+autoSaveImage=true
+clipboardGroup=PostScreenshotCopyImage
+useReleaseToCapture=true
+
+[GuiConfig]
+quitAfterSaveCopyExport=true
+
 [ImageSave]
 translatedScreenshotsFolder=Screenshots
 
 [VideoSave]
+preferredVideoFormat=2
 translatedScreencastsFolder=Screencasts
