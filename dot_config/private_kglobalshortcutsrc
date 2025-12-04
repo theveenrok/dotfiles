@@ -274,4 +274,4 @@ _launch=Meta+D
 _launch=Meta+K
 
 [services][systemsettings.desktop]
-_launch=none
+_launch=Meta+,
