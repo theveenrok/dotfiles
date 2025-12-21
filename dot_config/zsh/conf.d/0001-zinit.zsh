@@ -21,7 +21,8 @@ zinit light zsh-users/zsh-completions
 zinit light zsh-users/zsh-autosuggestions
 zinit light zdharma-continuum/fast-syntax-highlighting
 
-zinit snippet OMZ::plugins/git/git.plugin.zsh
+zinit snippet OMZL::git.zsh
+zinit snippet OMZP::git
 zinit load zsh-users/zsh-history-substring-search
 
 zinit light junegunn/fzf
