@@ -9,6 +9,10 @@ alias zq="zoxide query"
 # Helix aliases.
 alias hx="helix"
 
+# Zed
+alias zd="zeditor"
+
+
 # Fetch a system information.
 alias fch="fastfetch"
 
